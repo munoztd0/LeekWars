@@ -1,0 +1,1 @@
+# LeekWars script for AI
